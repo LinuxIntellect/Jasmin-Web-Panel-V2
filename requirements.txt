@@ -29,7 +29,7 @@ django-3-jet==1.0.8
 django-autoslug==1.9.4
 django-crequest==2018.5.11
 django-environ==0.4.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 dnspython==1.16.0
 email-validator==1.0.4
 et-xmlfile==1.0.1

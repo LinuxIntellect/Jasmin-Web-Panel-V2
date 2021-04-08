@@ -24,7 +24,7 @@ coreschema==0.0.4
 cryptography==2.7
 daphne==2.3.0
 defusedxml==0.6.0
-Django==3.0.5
+Django==3.0.14
 django-3-jet==1.0.8
 django-autoslug==1.9.4
 django-crequest==2018.5.11
